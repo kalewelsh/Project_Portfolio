@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project Portfolio on Kyle Welsh Portfolio</title>
+    <link>https://kalewelsh.github.io/Project_Portfolio/</link>
+    <description>Recent content in Project Portfolio on Kyle Welsh Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Jan 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://kalewelsh.github.io/Project_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mountain Project Sport Climbing Route Analysis</title>
+      <link>https://kalewelsh.github.io/Project_Portfolio/post/chapter-1/</link>
+      <pubDate>Tue, 05 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://kalewelsh.github.io/Project_Portfolio/post/chapter-1/</guid>
+      <description>Overview   I wrote a Python script to scrape data such as rout length, user quality rating, difficulty rating, and more from all of the sport climbing routs on the MountainProject website.
+  I created an interactive map to how sport climbing routes differ between the states.
+  I created a density map to get an idea of the parts of the U.S that have the most sport climbing routes and to provide a more granular view of where rock climbing routes are located than what is offered on the MontainProject website.</description>
+    </item>
+    
+    <item>
+      <title>Car Accident Clustering Tool</title>
+      <link>https://kalewelsh.github.io/Project_Portfolio/post/project-3/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://kalewelsh.github.io/Project_Portfolio/post/project-3/</guid>
+      <description>Link To Car Accident Clustering Web Application: https://share.streamlit.io/kalewelsh/car-accident-clustering-tool/main/Car-Accident-Clustering.py
+Link to Github Repo: https://github.com/kalewelsh/Car-Accident-Clustering-Tool
+Overview  I created a web application that can be used to identify clusters of car accidents using a density clustering algorithm. I created this application using the Python packages Streamlit, Pandas, Numpy, ScikitLearn, and Plotly. I designed the web application in a way that allows the user to modify the parameters of the algorithm, changing the way that the algorithm clusters the data.</description>
+    </item>
+    
+    <item>
+      <title>Solar Power Energy Forecasting</title>
+      <link>https://kalewelsh.github.io/Project_Portfolio/post/chapter-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://kalewelsh.github.io/Project_Portfolio/post/chapter-2/</guid>
+      <description>Link To Project Github https://github.com/kalewelsh/Solar-Energy-Forecasting
+Overview  Built a LSTM neural network to predict the next hours energy output based on the cloud coverage and power output from the previous 24 hours Transformed dataset into a way that can be interpretted by a time series model using Pandas, Numpy, and Tensorflow packages. Engineered new features and tuned hyperparameters to achieve good performance The model achieved a mean squared error of .</description>
+    </item>
+    
+    <item>
+      <title>Contact Info</title>
+      <link>https://kalewelsh.github.io/Project_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kalewelsh.github.io/Project_Portfolio/contact/</guid>
+      <description>Email | kylewelshjobs@gmail.com
+LinkedIn | https://www.linkedin.com/in/kyle-welsh-016b10179/</description>
+    </item>
+    
+  </channel>
+</rss>
